@@ -1,0 +1,429 @@
+@media (max-width:1000px) {
+
+    .top-statement-p {
+        font-size:16px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        float:left;
+        width:50%;
+        margin:100px 0px -100px -110px;
+    }
+
+    .table_01 {
+        font-size:12px;
+        margin-top:110px;
+        margin-left:50px;
+    }
+
+    .service-wrapper {
+        width:100%;
+        margin-top:80px;
+        text-align:center;
+    }
+
+    .service {
+        margin-bottom:100px;
+    }
+    
+    .felling-left {
+        overflow:hidden;
+        width:50%;
+    }
+    
+    .felling-logo {
+        text-align:left;
+        float:left;
+        margin-top:15px;
+        margin-left:30px;
+        margin-bottom:30px;
+    }
+    
+    .felling-p {
+        font-size:16px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        clear:left;
+        margin-top:10px;
+        margin-left:30px;
+        margin-right:60px;
+    }
+    
+    .felling-img {
+        width:50%;
+        height:auto; 
+        margin-left:940px;
+        margin-top:-250px;   
+        float:right;
+    }
+    
+    .mowing-img {
+        width:50%;
+        height:auto;
+        margin-top:30px;
+        float:left;
+        margin-bottom:100px;
+    }
+
+    .mowing-right {
+        overflow:hidden;
+        width:50%;
+    }
+    
+    .mowing-logo {
+        text-align:left;
+        margin-top:100px;
+        margin-left:40px;
+        margin-bottom:20px;
+    }
+    
+    .mowing-p {
+        font-size:16px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        clear:left;
+        margin-top:30px;
+        margin-left:40px;
+        margin-right:40px;
+    }
+
+    .pruning {
+        clear:left;
+    }
+    
+    .pruning-left {
+        overflow:hidden;
+        width:50%;
+    }
+    
+    .pruning-logo {
+        text-align:left;
+        margin-top:0px;
+        margin-left:30px;
+        margin-bottom:0px;
+    }
+    
+    .pruning-p {
+        font-size:16px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        margin-left:30px;
+        margin-right:50px;
+    }
+    
+    .pruning-img {
+        width:50%;
+        height:auto;
+        margin-top:-240px;    
+        margin-left:940px;    
+        float:right;
+    }
+
+    .snow_fences-right {
+        overflow:hidden;
+        width:50%;
+    }
+    
+    .snow_fences-img {
+        width:50%;
+        height:auto;
+        margin-top:30px;
+        float:left;
+        margin-bottom:50px;
+    }
+    
+    .snow_fences-logo {
+        text-align:left;
+        float:left;
+        margin-top:150px;
+        margin-left:40px;
+        margin-bottom:0px;
+    }
+    
+    .snow_fences-p {
+        font-size:16px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        margin-top:220px;
+        margin-left:40px;
+    }
+    
+    
+}
+
+@media (max-width:670px) {
+
+    .header-left {
+        float: left;
+        font-size: 18px;
+        padding: 20px 0px;
+    }
+
+    header {
+        height: 70px;
+    }
+
+    .header-right {
+        display:none;
+    }
+
+    .menu-icon {
+        display:block;
+        padding: 20px 30px;
+    }
+
+    .top-wrapper {
+        padding: 180px 0 60px 0;
+        height:250px;
+    }
+
+    .aboutus-wrapper {
+        margin-top:60px;
+    }
+    
+    .aboutus {
+        margin-bottom:20px;
+    }
+
+    .top-statement-left {
+        overflow: hidden;
+        width:83%;
+        height:250px;
+    }
+    
+    .statement-title-img {
+        float:left;
+        margin:75px 0px 40px 20px;
+    }
+    
+    .top-statement-p {
+        font-size:10px;
+        margin:89px 0px -50px -110px;
+    }
+
+    .top-statement-img {
+        width:50%;
+        height:250px;
+        margin-top:-200px;
+        margin-left:940px;
+        float:right;
+    }
+
+    .company-img {
+        width:50%;
+        height:250px;
+        margin-top:30px;
+        float:left;
+        margin-bottom:110px;
+    }
+    
+    .company-title-img {
+        text-align:center;
+        margin-top:60px;
+        margin-left:13px;
+    }
+
+    .table_01 {
+        font-size:8px;
+        margin-top:100px;
+        margin-left:10px;
+    }
+
+    .address2 {
+        font-size:10px;
+        color: black;   
+    }
+
+    .businesshour {
+        font-size:10px;
+        color: black;   
+    }
+
+    .service-wrapper {
+        margin-top:60px;
+    }
+
+    .service {
+        margin-bottom:50px;
+    }
+
+    .felling-left {
+        overflow:hidden;
+        width:100%;
+        height:auto;
+    }
+
+    .felling-logo {
+        text-align:left;
+        margin-left:22px;
+        margin-bottom:0px;
+    }
+    
+    .felling-p {
+        font-size:12px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        clear:left;
+        margin-top:50px;
+        margin-left:30px;
+        margin-right:20px;
+        margin-bottom:10px;
+    }
+    
+    .felling-img {
+        width:100%;
+        height:250px; 
+        margin-left:940px;
+        margin-top:10px;   
+        float:right;
+    }
+
+    .mowing {
+        width:100%;
+        display:flex;
+        flex-wrap: wrap;
+	    flex-direction: column-reverse;
+    }
+
+    .mowing-img {
+        width:100%;
+        height:250px;
+        margin-top:10px;
+        clear:left;
+        margin-bottom:30px;
+    }
+    
+    .mowing-right {
+        width:100%;
+    }
+    
+    .mowing-logo {
+        text-align:left;
+        clear:left;
+        margin-top:30px;
+        margin-left:30px;
+        margin-bottom:0px;
+    }
+    
+    .mowing-p {
+        font-size:12px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        clear:left;
+        margin-top:80px;
+        margin-left:30px;
+        margin-right:20px;
+        margin-bottom:10px;
+    }
+
+    .pruning {
+        clear:left;
+        width:100%;
+    }
+    
+    .pruning-left {
+        width:100%;
+    }
+    
+    .pruning-logo {
+        text-align:left;
+        margin-top:-20px;
+        margin-left:25px;
+        margin-bottom:0px;
+    }
+    
+    .pruning-p {
+        font-size:12px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        margin-left:30px;
+        margin-right:20px;
+    }
+    
+    .pruning-img {
+        width:100%;
+        height:auto;
+        margin-top:15px;    
+        margin-left:0px;    
+        clear:right;
+    }
+
+    .snow_fences {
+        width:100%;
+        clear:left;
+        display:flex;
+        flex-wrap: wrap;
+	    flex-direction: column-reverse;
+    }
+
+    .snow_fences-right {
+        width:100%;
+    }
+    
+    .snow_fences-img {
+        width:100%;
+        height:auto;
+        margin-top:20px;
+        float:left;
+        margin-bottom:100px;
+    }
+    
+    .snow_fences-logo {
+        text-align:left;
+        margin-top:30px;
+        margin-left:30px;
+        margin-bottom:0px;
+    }
+    
+    .snow_fences-p {
+        font-size:12px;
+        color: black;
+        letter-spacing:5px;
+        text-align:left;
+        margin-top:80px;
+        margin-left:30px;
+        margin-right:20px;
+    }
+
+    .heading {
+        margin-bottom:70px;
+        text-align:center;
+        font-size:12px;
+    }
+
+    .tel {
+        text-align:center;
+        border-bottom: 1px solid #EEEEEE;
+        border-left: 1px solid #EEEEEE;
+        border-radius: 5px;
+        border-right: 1px solid #EEEEEE;
+        border-top: 1px solid #EEEEEE;
+        height: 100px;
+        margin: 0px 10px 70px 10px;
+        padding: 0px;
+        width: 96%;
+    }
+    
+    footer {
+        text-align:center;
+    }
+
+    .footer-company {
+        color:#fff;
+        font-size: 16px;
+        padding-top:22px;
+    }
+    .copyright {
+        color: white;
+        font-size: 10px;
+      }
+
+
+}
