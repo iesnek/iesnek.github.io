@@ -1,5 +1,9 @@
 @media (max-width:1000px) {
 
+    .statement-title-img {
+        margin:100px 0px 60px 40px;
+    }
+
     .top-statement-p {
         font-size:16px;
         color: black;
@@ -7,7 +11,7 @@
         text-align:left;
         float:left;
         width:50%;
-        margin:100px 0px -100px -110px;
+        margin:110px 0px -100px -110px;
     }
 
     .table_01 {
@@ -191,18 +195,18 @@
 
     .top-statement-left {
         overflow: hidden;
-        width:83%;
+        width:50%;
         height:250px;
     }
     
     .statement-title-img {
-        float:left;
-        margin:75px 0px 40px 20px;
+        margin:105px 0px 0px 20px;
     }
     
     .top-statement-p {
-        font-size:10px;
-        margin:89px 0px -50px -110px;
+        font-size:6px;
+        width:100%;
+        margin:0px 0px 0px 22px;
     }
 
     .top-statement-img {

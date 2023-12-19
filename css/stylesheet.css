@@ -317,9 +317,10 @@ header {
 .message {
     padding: 15px 40px;
     background-color: black;
-    margin: 0px 0px 0px 30px;
+    margin: 0px 0px 0px 15px;
     width:100%;
     height:200px;
+    text-align:center;
 }
 
 .message:hover {
